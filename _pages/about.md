@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a first year master student from [Department of Civil and Environmental Engineering](https://cee.engin.umich.edu/), University of Mihicgan, Ann Arbor. My research interest includes Shared Mobility, Intelligent Transportation System etc.
+
+I am very fortunate to be advised by [Prof. Neda Masoud](https://cee.engin.umich.edu/people/masoud-neda/) of Next Generation Mobility Systems Lab from [Department of Civil and Environmental Engineering](https://websites.umich.edu/~nmasoud/), University of Michigan, Ann Arbor. I got my bachelor degree in Tongji Univerisity in June 2023, I was advised by [Prof. Meiting Tu](https://tjjt.tongji.edu.cn/info/2901/9429.htm) from Department of Transportation Engineering, Tongji University.
+
+You can find my CV here: [Lingyun Zhong's Curriculum Vitae].
+
+[Email](lingyunz@umich.edu) / [Github](https://github.com/zhongly1021).
 
 A data-driven personal website
 ======
