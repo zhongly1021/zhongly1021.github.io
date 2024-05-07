@@ -15,5 +15,5 @@ You can find my CV here: [Lingyun Zhong's Curriculum Vitae](../assets/CV-Lingyun
 
 [Email](lingyunz@umich.edu) / [Github](https://github.com/zhongly1021).
 ##Reward
-The First Class Scholarship for Academic Excellence, Tongji University 09/2022
-The First Prize, The 17th "Huazhan Cup" National College Student Transportation Science and Technology Competition 07/2022
+* The First Class Scholarship for Academic Excellence, Tongji University 09/2022
+* The First Prize, The 17th "Huazhan Cup" National College Student Transportation Science and Technology Competition 07/2022
