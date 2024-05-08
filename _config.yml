@@ -39,7 +39,7 @@ author:
   researchgate     : # URL
 
   # Repositories and software development
-  github           : "https://github.com/zhongly1021?tab=repositories"
+  github           : #"https://github.com/zhongly1021?tab=repositories"
 
   # Social media
   linkedin         : #"https://www.linkedin.com/in/lingyun-zhong-2b5833290"
