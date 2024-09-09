@@ -18,3 +18,7 @@ I am very fortunate to be advised by [Prof. Neda Masoud](https://cee.engin.umich
 * The First Class Scholarship for Academic Excellence, Tongji University 09/2022
 * The First Prize, The 17th "Huazhan Cup" National College Student Transportation Science and Technology Competition 07/2022
 
+## News
+* [2024-8-26] I am excited to start my last semester at Univeristy of Michigan.
+* [2024-5-20] I am honored to be selected for the MIT-UF-NEU 2024 Joint Summer Research Camp.
+* [2024-4-23] I am honored to join Columbia University's DitecT Lab.
